@@ -31,8 +31,8 @@ public class funcoes {
 	   }
 	   return numero;	
 	}
-	public void getResultado(int n)
+	public void getResultado(int z)
 	{
-		JOptionPane.showMessageDialog(null,n);
+		JOptionPane.showMessageDialog(null,z);
 	}
 }
